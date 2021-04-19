@@ -9,7 +9,8 @@ export class SampleComponent implements OnInit {
 
   name = "this is Sample";
   gender = "Male";
-
+  bbb = "branch"
+;
   constructor() { }
 
   ngOnInit() {
