@@ -8,6 +8,7 @@ import { Component, OnInit } from '@angular/core';
 export class SampleComponent implements OnInit {
 
   name = "this is Sample";
+  gender = "Male";
 
   constructor() { }
 
